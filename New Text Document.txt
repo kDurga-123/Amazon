@@ -1,0 +1,2 @@
+let reg_email="kanchamdurga@gmail.com"
+let reg_password="durga@2002"
